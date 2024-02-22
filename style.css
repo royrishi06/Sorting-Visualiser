@@ -15,7 +15,7 @@ body {
 }
 
 .flex-item{
-    background: purple;
+    background: rgb(87, 4, 87);
     border: 1pt solid black;
     width: 10px;
     transition: 0.1s all ease;
