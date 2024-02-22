@@ -15,7 +15,7 @@ body {
 }
 
 .flex-item{
-    background: lavender;
+    background: violet;
     border: 1pt solid black;
     width: 10px;
     transition: 0.1s all ease;
