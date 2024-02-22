@@ -7,4 +7,5 @@
 - Merge Sort
 
 ### This is built using HTML, CSS, JavaScript <br/>
+You can visit the website at https://royrishi06.github.io/Sorting-Visualiser/
 
